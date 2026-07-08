@@ -33,3 +33,25 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Browsing the papers (web app)
+
+A lightweight, dependency-free web app is included to browse the downloaded PYQs.
+
+1. Build the index (scans `PYQs/` into `webapp/data.js`):
+
+   ```
+   python build_index.py
+   ```
+
+2. Open `webapp/index.html` in your browser (just double-click it — no server needed).
+
+Rerun `build_index.py` whenever you download new papers.
+
+### What you can do
+
+- **Browse by year** — pick a year chip; results group by category (Optional, Literature, Compulsory Language, General Studies, General).
+- **One paper across years** — pick a subject and paper (e.g. *Management · Paper I*) to see every year 2016–2025.
+- **Compare multiple subjects** — select several subjects (e.g. *Mathematics* and *Statistics*, Paper I / II / both) and switch to **Matrix** view for a year-by-year comparison grid.
+
+Filters (subject, paper, year, category, phase, text search) combine freely, and each result links straight to the source PDF.
+

@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UPSC PYQ Browser</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --panel:#ffffff; --ink:#1b1f24; --muted:#6b7280;
+    --line:#e5e7eb; --accent:#2563eb; --accent-soft:#e8effd; --chip:#eef1f5;
+    --chip-on:#2563eb; --chip-on-ink:#fff; --shadow:0 1px 2px rgba(0,0,0,.05);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0f1216; --panel:#171b21; --ink:#e6e9ee; --muted:#9aa4b2;
+      --line:#262c34; --accent:#5b8cff; --accent-soft:#1b2740; --chip:#20262e;
+      --chip-on:#3b6ef0; --chip-on-ink:#fff; --shadow:none;
+    }
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    background:var(--bg);color:var(--ink);}
+  a{color:var(--accent);text-decoration:none}
+  header{display:flex;align-items:baseline;gap:12px;padding:14px 20px;
+    border-bottom:1px solid var(--line);background:var(--panel);position:sticky;top:0;z-index:5}
+  header h1{font-size:17px;margin:0;font-weight:650}
+  header .sub{color:var(--muted);font-size:12px}
+  .layout{display:grid;grid-template-columns:290px 1fr;min-height:calc(100% - 51px)}
+  aside{border-right:1px solid var(--line);background:var(--panel);padding:16px;
+    overflow:auto;max-height:calc(100vh - 51px);position:sticky;top:51px}
+  main{padding:18px 22px;overflow:auto}
+  .grp{margin-bottom:18px}
+  .grp h3{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);
+    margin:0 0 8px}
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{border:1px solid var(--line);background:var(--chip);color:var(--ink);
+    padding:4px 10px;border-radius:999px;cursor:pointer;font-size:12.5px;user-select:none}
+  .chip.on{background:var(--chip-on);color:var(--chip-on-ink);border-color:transparent}
+  input[type=search],.subjbox input{width:100%;padding:8px 10px;border:1px solid var(--line);
+    border-radius:8px;background:var(--bg);color:var(--ink);font-size:13px}
+  .subjbox{border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--bg)}
+  .subjbox .hd{display:flex;gap:8px;padding:8px;border-bottom:1px solid var(--line)}
+  .subjbox .list{max-height:230px;overflow:auto;padding:4px}
+  .subjbox label{display:flex;align-items:center;gap:8px;padding:4px 6px;border-radius:6px;cursor:pointer}
+  .subjbox label:hover{background:var(--accent-soft)}
+  .subjbox label span.c{margin-left:auto;color:var(--muted);font-size:11px}
+  .mini{font-size:11px;color:var(--muted);background:none;border:none;cursor:pointer;padding:2px 4px}
+  .mini:hover{color:var(--accent)}
+  .btnrow{display:flex;gap:8px;margin-top:6px}
+  .btn{flex:1;padding:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink);
+    border-radius:8px;cursor:pointer;font-size:12.5px}
+  .btn.primary{background:var(--accent);color:#fff;border-color:transparent}
+  .toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:14px}
+  .toolbar .count{color:var(--muted);font-size:12.5px}
+  .seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .seg button{border:none;background:var(--panel);color:var(--ink);padding:6px 12px;cursor:pointer;font-size:12.5px}
+  .seg button.on{background:var(--accent);color:#fff}
+  /* list */
+  .yeargrp{margin-bottom:22px}
+  .yeargrp .gh{font-size:15px;font-weight:650;margin:0 0 10px;display:flex;align-items:center;gap:8px}
+  .yeargrp .gh .n{color:var(--muted);font-weight:400;font-size:12px}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+  .card{border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:12px 13px;
+    box-shadow:var(--shadow);display:flex;flex-direction:column;gap:6px}
+  .card .t{font-weight:600}
+  .card .meta{display:flex;flex-wrap:wrap;gap:6px;font-size:11.5px;color:var(--muted)}
+  .card .tag{background:var(--chip);border-radius:5px;padding:1px 7px}
+  .card a.open{margin-top:2px;font-weight:600;font-size:12.5px}
+  /* matrix */
+  .mtx{overflow:auto;border:1px solid var(--line);border-radius:10px}
+  table{border-collapse:collapse;width:100%;font-size:12.5px;background:var(--panel)}
+  th,td{border:1px solid var(--line);padding:7px 9px;text-align:center;white-space:nowrap}
+  th{background:var(--chip);position:sticky;top:0;font-weight:600}
+  th.yr,td.yr{position:sticky;left:0;background:var(--chip);font-weight:600;text-align:left}
+  td .dot{color:var(--muted)}
+  .empty{color:var(--muted);padding:40px;text-align:center}
+</style>
+</head>
+<body>
+<header>
+  <h1>UPSC PYQ Browser</h1>
+  <span class="sub" id="hdrsub"></span>
+</header>
+<div class="layout">
+  <aside>
+    <div class="grp">
+      <h3>Search</h3>
+      <input type="search" id="q" placeholder="Filter by subject / file…">
+    </div>
+
+    <div class="grp">
+      <h3>Subjects</h3>
+      <div class="subjbox">
+        <div class="hd"><input id="subjq" placeholder="find a subject…"></div>
+        <div class="btnrow" style="padding:6px 8px 0">
+          <button class="mini" id="subjAll">select all</button>
+          <button class="mini" id="subjNone">clear</button>
+        </div>
+        <div class="list" id="subjlist"></div>
+      </div>
+    </div>
+
+    <div class="grp">
+      <h3>Paper</h3>
+      <div class="chips" id="papers"></div>
+    </div>
+
+    <div class="grp">
+      <h3>Years</h3>
+      <div class="chips" id="years"></div>
+    </div>
+
+    <div class="grp">
+      <h3>Category</h3>
+      <div class="chips" id="cats"></div>
+    </div>
+
+    <div class="grp">
+      <h3>Phase</h3>
+      <div class="chips" id="phases"></div>
+    </div>
+
+    <button class="btn" id="reset">Reset all filters</button>
+  </aside>
+
+  <main>
+    <div class="toolbar">
+      <span class="count" id="count"></span>
+      <span style="flex:1"></span>
+      <span style="font-size:12px;color:var(--muted)">Group</span>
+      <div class="seg" id="groupSeg">
+        <button data-g="year" class="on">By year</button>
+        <button data-g="subject">By subject</button>
+      </div>
+      <span style="font-size:12px;color:var(--muted)">View</span>
+      <div class="seg" id="viewSeg">
+        <button data-v="list" class="on">List</button>
+        <button data-v="matrix">Matrix</button>
+      </div>
+    </div>
+    <div id="results"></div>
+  </main>
+</div>
+
+<script src="data.js"></script>
+<script>
+const DATA = window.PYQ_DATA || [];
+const ROMAN = ["I","II","III","IV"];
+const uniq = (a)=>[...new Set(a)];
+const years = uniq(DATA.map(d=>d.year)).sort((a,b)=>b-a);
+const subjects = uniq(DATA.map(d=>d.subject)).sort((a,b)=>a.localeCompare(b));
+const cats = uniq(DATA.map(d=>d.category)).sort();
+const phases = uniq(DATA.map(d=>d.phase)).sort();
+
+const state = {
+  q:"", subjects:new Set(), papers:new Set(), years:new Set(),
+  cats:new Set(), phases:new Set(), group:"year", view:"list"
+};
+
+document.getElementById('hdrsub').textContent =
+  `${DATA.length} papers · ${subjects.length} subjects · ${years[years.length-1]}–${years[0]}`;
+
+/* ---------- build controls ---------- */
+function chipRow(el, items, set, labelFn){
+  el.innerHTML="";
+  items.forEach(v=>{
+    const c=document.createElement('span');
+    c.className='chip'; c.textContent=labelFn?labelFn(v):v;
+    c.onclick=()=>{ set.has(v)?set.delete(v):set.add(v); c.classList.toggle('on'); render(); };
+    el.appendChild(c);
+  });
+}
+chipRow(document.getElementById('papers'), ROMAN, state.papers, v=>"Paper "+v);
+chipRow(document.getElementById('years'), years, state.years);
+chipRow(document.getElementById('cats'), cats, state.cats);
+chipRow(document.getElementById('phases'), phases, state.phases);
+
+const subjCounts = {};
+DATA.forEach(d=>subjCounts[d.subject]=(subjCounts[d.subject]||0)+1);
+function buildSubjList(){
+  const box=document.getElementById('subjlist');
+  const f=document.getElementById('subjq').value.toLowerCase();
+  box.innerHTML="";
+  subjects.filter(s=>s.toLowerCase().includes(f)).forEach(s=>{
+    const l=document.createElement('label');
+    const cb=document.createElement('input'); cb.type='checkbox'; cb.checked=state.subjects.has(s);
+    cb.onchange=()=>{ cb.checked?state.subjects.add(s):state.subjects.delete(s); render(); };
+    const t=document.createElement('span'); t.textContent=s;
+    const c=document.createElement('span'); c.className='c'; c.textContent=subjCounts[s];
+    l.append(cb,t,c); box.appendChild(l);
+  });
+}
+document.getElementById('subjq').oninput=buildSubjList;
+document.getElementById('subjAll').onclick=()=>{subjects.forEach(s=>state.subjects.add(s));buildSubjList();render();};
+document.getElementById('subjNone').onclick=()=>{state.subjects.clear();buildSubjList();render();};
+document.getElementById('q').oninput=e=>{state.q=e.target.value.toLowerCase();render();};
+
+function seg(id, key){
+  document.querySelectorAll('#'+id+' button').forEach(b=>{
+    b.onclick=()=>{
+      document.querySelectorAll('#'+id+' button').forEach(x=>x.classList.remove('on'));
+      b.classList.add('on');
+      state[key]=b.dataset.g||b.dataset.v; render();
+    };
+  });
+}
+seg('groupSeg','group'); seg('viewSeg','view');
+document.getElementById('reset').onclick=()=>{
+  state.q=""; document.getElementById('q').value="";
+  [state.subjects,state.papers,state.years,state.cats,state.phases].forEach(s=>s.clear());
+  document.querySelectorAll('.chip.on').forEach(c=>c.classList.remove('on'));
+  buildSubjList(); render();
+};
+
+/* ---------- filtering ---------- */
+function filtered(){
+  return DATA.filter(d=>{
+    if(state.subjects.size && !state.subjects.has(d.subject)) return false;
+    if(state.papers.size && !(d.paper && state.papers.has(d.paper))) return false;
+    if(state.years.size && !state.years.has(d.year)) return false;
+    if(state.cats.size && !state.cats.has(d.category)) return false;
+    if(state.phases.size && !state.phases.has(d.phase)) return false;
+    if(state.q){
+      const hay=(d.subject+" "+d.filename+" "+d.category).toLowerCase();
+      if(!hay.includes(state.q)) return false;
+    }
+    return true;
+  });
+}
+const title=d=>d.subject+(d.paper?" · Paper "+d.paper:"");
+const href=d=>"../"+d.path;
+
+/* ---------- render ---------- */
+function render(){
+  const rows=filtered();
+  document.getElementById('count').textContent=
+    rows.length+" paper"+(rows.length!==1?"s":"")+" shown";
+  const out=document.getElementById('results');
+  if(!rows.length){ out.innerHTML='<div class="empty">No papers match these filters.</div>'; return; }
+  out.innerHTML = state.view==='matrix' ? matrixView(rows) : listView(rows);
+}
+
+function listView(rows){
+  const key = state.group==='subject' ? (d=>d.subject) : (d=>d.year);
+  const groups={};
+  rows.forEach(d=>{ (groups[key(d)]=groups[key(d)]||[]).push(d); });
+  const keys=Object.keys(groups).sort((a,b)=>
+    state.group==='subject' ? a.localeCompare(b) : b-a);
+  return keys.map(k=>{
+    const list=groups[k].sort((a,b)=> state.group==='subject'
+      ? (b.year-a.year)||((a.paper||"").localeCompare(b.paper||""))
+      : a.subject.localeCompare(b.subject)||((a.paper||"").localeCompare(b.paper||"")));
+    const cards=list.map(d=>`
+      <div class="card">
+        <div class="t">${state.group==='subject'? d.year : d.subject}${d.paper?' · Paper '+d.paper:''}</div>
+        <div class="meta"><span class="tag">${d.category}</span><span class="tag">${d.phase}</span>
+          ${state.group==='subject'?'':'<span class="tag">'+d.subject.replace(/</g,'&lt;')+'</span>'}</div>
+        <a class="open" href="${href(d)}" target="_blank" rel="noopener">Open PDF ↗</a>
+      </div>`).join("");
+    return `<div class="yeargrp"><div class="gh">${k}<span class="n">${list.length}</span></div>
+      <div class="cards">${cards}</div></div>`;
+  }).join("");
+}
+
+function matrixView(rows){
+  // columns = subject + paper combos present; rows = years desc
+  const colKey=d=>d.subject+(d.paper?" · P"+d.paper:"");
+  const cols=uniq(rows.map(colKey)).sort();
+  const yrs=uniq(rows.map(d=>d.year)).sort((a,b)=>b-a);
+  const cell={};
+  rows.forEach(d=>{ cell[d.year+"||"+colKey(d)]=d; });
+  const head="<tr><th class='yr'>Year</th>"+cols.map(c=>`<th>${c.replace(/</g,'&lt;')}</th>`).join("")+"</tr>";
+  const body=yrs.map(y=>{
+    const tds=cols.map(c=>{
+      const d=cell[y+"||"+c];
+      return d?`<td><a href="${href(d)}" target="_blank" rel="noopener">open ↗</a></td>`
+             :`<td><span class="dot">–</span></td>`;
+    }).join("");
+    return `<tr><td class='yr'>${y}</td>${tds}</tr>`;
+  }).join("");
+  return `<div class="mtx"><table>${head}${body}</table></div>`;
+}
+
+buildSubjList();
+render();
+</script>
+</body>
+</html>
