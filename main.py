@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 # Store the input URL in a separate variable
-INPUT_URLS = ["https://upsc.gov.in/examinations/previous-question-papers/archives"]
+INPUT_URLS = ["https://www.upsc.gov.in/examinations/previous-question-papers"]
 
 # Folder to store the PDFs
 OUTPUT_FOLDER = "PYQs"

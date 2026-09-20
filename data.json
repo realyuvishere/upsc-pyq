@@ -3,6 +3,15 @@
   "subject": "Agriculture",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Agriculture_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Agriculture_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Agriculture",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Agriculture_Paper-_I_Mains_2025_Optional.pdf",
@@ -88,6 +97,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Agriculture_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Agriculture_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Agriculture",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Agriculture_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Agriculture_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Agriculture",
@@ -183,6 +201,15 @@
   "subject": "Animal Husbandry & Veterinary Science",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Animal_Hus._and_Vet._Science_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Animal_Hus._and_Vet._Science_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Animal Husbandry & Veterinary Science",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Animal_Husbandry_and_Veterinary_Science_Paper-_I_Mains_2025_Optional.pdf",
@@ -273,6 +300,15 @@
   "subject": "Animal Husbandry & Veterinary Science",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Animal_Hus._and_Vet._Science_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Animal_Hus._and_Vet._Science_Paper_-_II_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Animal Husbandry & Veterinary Science",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2024,
   "category": "Optional",
   "path": "PYQs/2024/Optional_Subjects/Animal_Husb._and_Vet._Science_Paper_-_II_Mains_2024_Optional_Subjects.pdf",
@@ -340,6 +376,15 @@
   "category": "Optional",
   "path": "PYQs/2017/Optional_Subjects/Animal_Hus._&_Vet._Sc._Paper_-_II_Mains_2017_Optional_Subjects.pdf",
   "filename": "Animal_Hus._&_Vet._Sc._Paper_-_II_Mains_2017_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Anthropology",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Anthropology_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Anthropology_Paper_-_I_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Anthropology",
@@ -435,6 +480,15 @@
   "subject": "Anthropology",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Anthropology_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Anthropology_Paper_-_II_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Anthropology",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Anthropology_Paper_-_II_Mains_2025_Optional.pdf",
@@ -520,6 +574,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Anthropology_Paper_-_II_Mains_2016_Optional_Subjects.pdf",
   "filename": "Anthropology_Paper_-_II_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Assamese",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Assamese_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Assamese_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Assamese",
@@ -615,6 +678,15 @@
   "subject": "Assamese",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Assamese_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Assamese_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Assamese",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Assamese_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -687,6 +759,15 @@
   "subject": "Assamese",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Assamese_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Assamese_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Assamese",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Assamese_Literature_Paper_-_II_Mains_2025_Optional_Literature.pdf",
@@ -754,6 +835,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Assamese_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf",
   "filename": "Assamese_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Bengali",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Bengali_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Bengali_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Bengali",
@@ -849,6 +939,15 @@
   "subject": "Bengali",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Bengali_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Bengali_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Bengali",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2024,
   "category": "Literature",
   "path": "PYQs/2024/Literature_Subjects/Bengali_Literature_Paper_-_I_Mains_2024_Literature_Subjects.pdf",
@@ -930,6 +1029,15 @@
   "subject": "Bengali",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Bengali_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Bengali_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Bengali",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2024,
   "category": "Literature",
   "path": "PYQs/2024/Literature_Subjects/Bengali_Literature_Paper_-_II_Mains_2024_Literature_Subjects.pdf",
@@ -1006,6 +1114,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Bengali_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf",
   "filename": "Bengali_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Bodo",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Bodo_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Bodo_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Bodo",
@@ -1137,6 +1254,15 @@
   "subject": "Botany",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Botany_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Botany_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Botany",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Botany_Paper_-_I_Mains_2025_Optional.pdf",
@@ -1222,6 +1348,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Botany_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Botany_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Botany",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Botany_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Botany_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Botany",
@@ -1317,6 +1452,15 @@
   "subject": "Chemistry",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Chemistry_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Chemistry_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Chemistry",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Chemistry_Paper_-_I_Mains_2025_Optional.pdf",
@@ -1402,6 +1546,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Chemistry_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Chemistry_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Chemistry",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Chemistry_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Chemistry_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Chemistry",
@@ -1497,6 +1650,15 @@
   "subject": "Civil Engineering",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Civil_Engineering_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Civil_Engineering_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Civil Engineering",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Civil_Engineering_Paper_-_I_Mains_2025_Optional.pdf",
@@ -1582,6 +1744,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Civil_Engineering_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Civil_Engineering_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Civil Engineering",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Civil_Engineering_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Civil_Engineering_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Civil Engineering",
@@ -1677,6 +1848,15 @@
   "subject": "Commerce & Accountancy",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Commerce_and_Accountancy_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Commerce_and_Accountancy_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Commerce & Accountancy",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Commerce_and_Accountancy_Paper_-_I_Mains_2025_Optional.pdf",
@@ -1762,6 +1942,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Commerce_&_Accountancy_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Commerce_&_Accountancy_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Commerce & Accountancy",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Commerce_and_Accountancy_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Commerce_and_Accountancy_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Commerce & Accountancy",
@@ -1884,6 +2073,15 @@
   "subject": "Economics",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Economics_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Economics_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Economics",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Economics_Paper_-_I_Mains_2025_Optional.pdf",
@@ -1969,6 +2167,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Economics_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Economics_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Economics",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Economics_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Economics_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Economics",
@@ -2064,6 +2271,15 @@
   "subject": "Electrical Engineering",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Electrical_Engineering_Paper_-I_Mains_2026_Optional.pdf",
+  "filename": "Electrical_Engineering_Paper_-I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Electrical Engineering",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Electrical_Engineering_Paper_-_I_Mains_2025_Optional.pdf",
@@ -2149,6 +2365,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Electrical_Engineering_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Electrical_Engineering_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Electrical Engineering",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Electrical_Engineering_Paper_-II_Mains_2026_Optional.pdf",
+  "filename": "Electrical_Engineering_Paper_-II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Electrical Engineering",
@@ -2244,6 +2469,15 @@
   "subject": "English",
   "paper": null,
   "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/English_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "English_(Compulsory)_Mains_2026_Compulsory.pdf"
+ },
+ {
+  "subject": "English",
+  "paper": null,
+  "phase": "Mains",
   "year": 2025,
   "category": "Compulsory Language",
   "path": "PYQs/2025/Compulsory/English_(Compulsory)_Mains_2025_Compulsory.pdf",
@@ -2329,6 +2563,15 @@
   "category": "General",
   "path": "PYQs/2016/General/English_(Compulsory)_Mains_2016_General.pdf",
   "filename": "English_(Compulsory)_Mains_2016_General.pdf"
+ },
+ {
+  "subject": "English",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/English_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "English_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "English",
@@ -2424,6 +2667,15 @@
   "subject": "English",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/English_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "English_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "English",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/English_Literature_Paper_-_II_Mains_2025_Optional_Literature.pdf",
@@ -2514,6 +2766,15 @@
   "subject": "Essay",
   "paper": null,
   "phase": "Mains",
+  "year": 2026,
+  "category": "General",
+  "path": "PYQs/2026/General/Essay_Mains_2026_General.pdf",
+  "filename": "Essay_Mains_2026_General.pdf"
+ },
+ {
+  "subject": "Essay",
+  "paper": null,
+  "phase": "Mains",
   "year": 2025,
   "category": "General",
   "path": "PYQs/2025/General/Essay_Mains_2025_General.pdf",
@@ -2599,6 +2860,15 @@
   "category": "General",
   "path": "PYQs/2016/General/Essay_(Compulsory)_Mains_2016_General.pdf",
   "filename": "Essay_(Compulsory)_Mains_2016_General.pdf"
+ },
+ {
+  "subject": "General Studies",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "General",
+  "path": "PYQs/2026/General/General_Studies_Paper_-_I_Mains_2026_General.pdf",
+  "filename": "General_Studies_Paper_-_I_Mains_2026_General.pdf"
  },
  {
   "subject": "General Studies",
@@ -2748,6 +3018,15 @@
   "subject": "General Studies",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "General",
+  "path": "PYQs/2026/General/General_Studies_Paper_-_II_Mains_2026_General.pdf",
+  "filename": "General_Studies_Paper_-_II_Mains_2026_General.pdf"
+ },
+ {
+  "subject": "General Studies",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "General Studies",
   "path": "PYQs/2025/General_Studies/General_Studies_Paper_-_II_Mains_2025_General_Studies.pdf",
@@ -2892,6 +3171,15 @@
   "subject": "General Studies",
   "paper": "III",
   "phase": "Mains",
+  "year": 2026,
+  "category": "General",
+  "path": "PYQs/2026/General/General_Studies_Paper_-_III_Mains_2026_General.pdf",
+  "filename": "General_Studies_Paper_-_III_Mains_2026_General.pdf"
+ },
+ {
+  "subject": "General Studies",
+  "paper": "III",
+  "phase": "Mains",
   "year": 2025,
   "category": "General Studies",
   "path": "PYQs/2025/General_Studies/General_Studies_Paper_-_III_Mains_2025_General_Studies.pdf",
@@ -2977,6 +3265,15 @@
   "category": "General Studies",
   "path": "PYQs/2016/General_Studies/General_Studies_Paper_-_III_Mains_2016_General_Studies.pdf",
   "filename": "General_Studies_Paper_-_III_Mains_2016_General_Studies.pdf"
+ },
+ {
+  "subject": "General Studies",
+  "paper": "IV",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "General",
+  "path": "PYQs/2026/General/General_Studies_Paper_-_IV_Mains_2026_General.pdf",
+  "filename": "General_Studies_Paper_-_IV_Mains_2026_General.pdf"
  },
  {
   "subject": "General Studies",
@@ -3072,6 +3369,15 @@
   "subject": "Geography",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Geography_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Geography_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Geography",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Geography_Paper_-_I_Mains_2025_Optional.pdf",
@@ -3157,6 +3463,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Geography_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Geography_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Geography",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Geography_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Geography_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Geography",
@@ -3252,6 +3567,15 @@
   "subject": "Geology",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Geology_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Geology_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Geology",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Geology_Paper_-_I_Mains_2025_Optional.pdf",
@@ -3337,6 +3661,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Geology_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Geology_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Geology",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Geology_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Geology_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Geology",
@@ -3432,6 +3765,15 @@
   "subject": "Gujarati",
   "paper": null,
   "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Gujarati_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Gujarati_(Compulsory)_Mains_2026_Compulsory.pdf"
+ },
+ {
+  "subject": "Gujarati",
+  "paper": null,
+  "phase": "Mains",
   "year": 2025,
   "category": "Compulsory Language",
   "path": "PYQs/2025/Compulsory/Gujarati_(Compulsory)_Mains_2025_Compulsory.pdf",
@@ -3517,6 +3859,15 @@
   "category": "Compulsory Language",
   "path": "PYQs/2016/Indian_Languages_(Compulsory)/Gujarati_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf",
   "filename": "Gujarati_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf"
+ },
+ {
+  "subject": "Gujarati",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Gujarati_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Gujarati_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Gujarati",
@@ -3612,6 +3963,15 @@
   "subject": "Gujarati",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Gujarati_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Gujarati_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Gujarati",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Gujarati_Literature_Paper_-_II_Mains_2025_Optional_Literature.pdf",
@@ -3697,6 +4057,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Gujarati_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf",
   "filename": "Gujarati_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Hindi",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Hindi_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Hindi_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Hindi",
@@ -3792,6 +4161,15 @@
   "subject": "Hindi",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Hindi_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Hindi_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Hindi",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Hindi_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -3882,6 +4260,15 @@
   "subject": "Hindi",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Hindi_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Hindi_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Hindi",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Hindi_Literature_Paper_-_II_Mains_2025_Optional_Literature.pdf",
@@ -3958,6 +4345,15 @@
   "category": "Literature",
   "path": "PYQs/2017/Literature_Subjects/Hindi_Paper_-_II_Mains_2017_Literature_Subjects.pdf",
   "filename": "Hindi_Paper_-_II_Mains_2017_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "History",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/History_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "History_Paper_-_I_Mains_2026_Optional.pdf"
  },
  {
   "subject": "History",
@@ -4053,6 +4449,15 @@
   "subject": "History",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/History_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "History_Paper_-_II_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "History",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/History_Paper_-_II_Mains_2025_Optional.pdf",
@@ -4138,6 +4543,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/History_Paper_-_II_Mains_2016_Optional_Subjects.pdf",
   "filename": "History_Paper_-_II_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Kannada",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Kannada_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Kannada_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Kannada",
@@ -4233,6 +4647,15 @@
   "subject": "Kannada",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Kannada_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Kannada_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Kannada",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Kannada_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -4318,6 +4741,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Kannada_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf",
   "filename": "Kannada_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Kannada",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Kannada_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Kannada_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Kannada",
@@ -4458,6 +4890,15 @@
   "subject": "Law",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Law_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Law_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Law",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Law_Paper_-_I_Mains_2025_Optional.pdf",
@@ -4543,6 +4984,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Law_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Law_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Law",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Law_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Law_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Law",
@@ -4638,6 +5088,15 @@
   "subject": "Maithili",
   "paper": null,
   "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Maithili_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Maithili_(Compulsory)_Mains_2026_Compulsory.pdf"
+ },
+ {
+  "subject": "Maithili",
+  "paper": null,
+  "phase": "Mains",
   "year": 2025,
   "category": "Compulsory Language",
   "path": "PYQs/2025/Compulsory/Maithili_(Compulsory)_Mains_2025_Compulsory.pdf",
@@ -4696,6 +5155,15 @@
   "category": "Compulsory Language",
   "path": "PYQs/2016/Indian_Languages_(Compulsory)/Maithili_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf",
   "filename": "Maithili_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf"
+ },
+ {
+  "subject": "Maithili",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Maithili_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Maithili_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Maithili",
@@ -4791,6 +5259,15 @@
   "subject": "Maithili",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Maithili_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Maithili_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Maithili",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Maithili_Literature_Paper_-_II_Mains_2025_Optional_Literature.pdf",
@@ -4876,6 +5353,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Maithili_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf",
   "filename": "Maithili_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Malayalam",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Malayalam_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Malayalam_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Malayalam",
@@ -4971,6 +5457,15 @@
   "subject": "Malayalam",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Malayalam_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Malayalam_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Malayalam",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Malayalam_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -5056,6 +5551,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Malayalam_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf",
   "filename": "Malayalam_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Malayalam",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Malayalam_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Malayalam_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Malayalam",
@@ -5151,6 +5655,15 @@
   "subject": "Management",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Management_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Management_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Management",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Management_Paper_-_I_Mains_2025_Optional.pdf",
@@ -5236,6 +5749,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Management_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Management_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Management",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Management_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Management_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Management",
@@ -5340,6 +5862,15 @@
   "subject": "Manipuri",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Manipuri_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Manipuri_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Manipuri",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Manipuri_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -5425,6 +5956,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Manipuri_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf",
   "filename": "Manipuri_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Manipuri",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Manipuri_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Manipuri_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Manipuri",
@@ -5520,6 +6060,15 @@
   "subject": "Marathi",
   "paper": null,
   "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Marathi_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Marathi_(Compulsory)_Mains_2026_Compulsory.pdf"
+ },
+ {
+  "subject": "Marathi",
+  "paper": null,
+  "phase": "Mains",
   "year": 2025,
   "category": "Compulsory Language",
   "path": "PYQs/2025/Compulsory/Marathi_(Compulsory)_Mains_2025_Compulsory.pdf",
@@ -5605,6 +6154,15 @@
   "category": "Compulsory Language",
   "path": "PYQs/2016/Indian_Languages_(Compulsory)/Marathi_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf",
   "filename": "Marathi_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf"
+ },
+ {
+  "subject": "Marathi",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Marathi_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Marathi_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Marathi",
@@ -5700,6 +6258,15 @@
   "subject": "Marathi",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Marathi_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Marathi_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Marathi",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Marathi_Literature_Paper_-_II_Mains_2025_Optional_Literature.pdf",
@@ -5785,6 +6352,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Marathi_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf",
   "filename": "Marathi_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Mathematics",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Mathematics_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Mathematics_Paper_-_I_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Mathematics",
@@ -5880,6 +6456,15 @@
   "subject": "Mathematics",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Mathematics_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Mathematics_Paper_-_II_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Mathematics",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Mathematics_Paper_-_II_Mains_2025_Optional.pdf",
@@ -5965,6 +6550,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Mathematics_Paper_-_II_Mains_2016_Optional_Subjects.pdf",
   "filename": "Mathematics_Paper_-_II_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Mechanical Engineering",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Mechanical_Engineering_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Mechanical_Engineering_Paper_-_I_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Mechanical Engineering",
@@ -6060,6 +6654,15 @@
   "subject": "Mechanical Engineering",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Mechanical_Engineering_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Mechanical_Engineering_Paper_-_II_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Mechanical Engineering",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Mechanical_Engineering_Paper_-_II_Mains_2025_Optional.pdf",
@@ -6145,6 +6748,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Mechanical_Engineering_Paper_-_II_Mains_2016_Optional_Subjects.pdf",
   "filename": "Mechanical_Engineering_Paper_-_II_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Medical Science",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Medical_Science_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Medical_Science_Paper_-_I_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Medical Science",
@@ -6240,6 +6852,15 @@
   "subject": "Medical Science",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Medical_Science_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Medical_Science_Paper_-_II_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Medical Science",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Medical_Science_Paper_-_II_Mains_2025_Optional.pdf",
@@ -6325,6 +6946,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Medical_Science_Paper_-_II_Mains_2016_Optional_Subjects.pdf",
   "filename": "Medical_Science_Paper_-_II_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Nepali",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Nepali_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Nepali_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Nepali",
@@ -6433,6 +7063,15 @@
   "category": "Literature",
   "path": "PYQs/2017/Literature_Subjects/Nepali_Paper_-_II_Mains_2017_Literature_Subjects.pdf",
   "filename": "Nepali_Paper_-_II_Mains_2017_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Odia",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/ODIA_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "ODIA_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Odia",
@@ -6636,6 +7275,15 @@
   "subject": "Philosophy",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Philosophy_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Philosophy_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Philosophy",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Philosophy_Paper_-_I_Mains_2025_Optional.pdf",
@@ -6721,6 +7369,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Philosophy_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Philosophy_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Philosophy",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Philosophy_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Philosophy_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Philosophy",
@@ -6816,6 +7473,15 @@
   "subject": "Physics",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Physics_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Physics_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Physics",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Physics_Paper_-_I_Mains_2025_Optional.pdf",
@@ -6901,6 +7567,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Physics_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Physics_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Physics",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Physics_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Physics_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Physics",
@@ -6996,6 +7671,15 @@
   "subject": "Political Science & IR",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Political_Science_and_International_Relations_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Political_Science_and_International_Relations_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Political Science & IR",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Political_Science_and_International_Relation_Paper_-_I_Mains_2025_Optional.pdf",
@@ -7081,6 +7765,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Political_Science_&_IR_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Political_Science_&_IR_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Political Science & IR",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Political_Science_and_International_Relations_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Political_Science_and_International_Relations_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Political Science & IR",
@@ -7176,6 +7869,15 @@
   "subject": "Psychology",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Psychology_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Psychology_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Psychology",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Psychology_Paper_-_I_Mains_2025_Optional.pdf",
@@ -7261,6 +7963,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Psychology_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Psychology_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Psychology",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Psychology_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Psychology_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Psychology",
@@ -7356,6 +8067,15 @@
   "subject": "Public Administration",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Public_Administration_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Public_Administration_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Public Administration",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Public_Administration_Paper_-_I_Mains_2025_Optional.pdf",
@@ -7441,6 +8161,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Public_Administration_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Public_Administration_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Public Administration",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Public_Administration_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Public_Administration_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Public Administration",
@@ -7536,6 +8265,15 @@
   "subject": "Punjabi",
   "paper": null,
   "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Punjabi_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Punjabi_(Compulsory)_Mains_2026_Compulsory.pdf"
+ },
+ {
+  "subject": "Punjabi",
+  "paper": null,
+  "phase": "Mains",
   "year": 2025,
   "category": "Compulsory Language",
   "path": "PYQs/2025/Compulsory/Punjabi_(Compulsory)_Mains_2025_Compulsory.pdf",
@@ -7621,6 +8359,15 @@
   "category": "Compulsory Language",
   "path": "PYQs/2016/Indian_Languages_(Compulsory)/Punjabi_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf",
   "filename": "Punjabi_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf"
+ },
+ {
+  "subject": "Punjabi",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Punjabi_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Punjabi_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Punjabi",
@@ -7716,6 +8463,15 @@
   "subject": "Punjabi",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Punjabi_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Punjabi_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Punjabi",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Punjabi_Literature_Paper-_II_Mains_2025_Optional_Literature.pdf",
@@ -7801,6 +8557,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Punjabi_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf",
   "filename": "Punjabi_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Sanskrit",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Sanskrit_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Sanskrit_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Sanskrit",
@@ -7896,6 +8661,15 @@
   "subject": "Sanskrit",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Sanskrit_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Sanskrit_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Sanskrit",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Sanskrit_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -7981,6 +8755,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Sanskrit_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf",
   "filename": "Sanskrit_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Sanskrit",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Sanskrit_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Sanskrit_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Sanskrit",
@@ -8292,6 +9075,15 @@
   "subject": "Sindhi (Devanagari)",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Sindhi_Literature_(Devanagari)_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Sindhi_Literature_(Devanagari)_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Sindhi (Devanagari)",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Sindhi_(Devnagari)_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -8346,6 +9138,15 @@
   "subject": "Sindhi (Devanagari)",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Sindhi_Literature_(Devanagari)_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Sindhi_Literature_(Devanagari)_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Sindhi (Devanagari)",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Sindhi_(Devnagari)_Literature_Paper_-_II_Mains_2025_Optional_Literature.pdf",
@@ -8395,6 +9196,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Sindhi_(Devanagari)_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf",
   "filename": "Sindhi_(Devanagari)_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Sociology",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Sociology_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Sociology_Paper_-_I_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Sociology",
@@ -8490,6 +9300,15 @@
   "subject": "Sociology",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Sociology_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Sociology_Paper_-_II_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Sociology",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Sociology_Paper_-_II_Mains_2025_Optional.pdf",
@@ -8575,6 +9394,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Sociology_Paper_-_II_Mains_2016_Optional_Subjects.pdf",
   "filename": "Sociology_Paper_-_II_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Statistics",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Statistics_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Statistics_Paper_-_I_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Statistics",
@@ -8670,6 +9498,15 @@
   "subject": "Statistics",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Statistics_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Statistics_Paper_-_II_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Statistics",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Statistics_Paper_-_II_Mains_2025_Optional.pdf",
@@ -8755,6 +9592,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Statistics_Paper_-_II_Mains_2016_Optional_Subjects.pdf",
   "filename": "Statistics_Paper_-_II_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Tamil",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Tamil_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Tamil_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Tamil",
@@ -8850,6 +9696,15 @@
   "subject": "Tamil",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Tamil_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Tamil_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Tamil",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Tamil_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -8935,6 +9790,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Tamil_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf",
   "filename": "Tamil_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Tamil",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Tamil_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Tamil_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Tamil",
@@ -9030,6 +9894,15 @@
   "subject": "Telugu",
   "paper": null,
   "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Telugu_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Telugu_(Compulsory)_Mains_2026_Compulsory.pdf"
+ },
+ {
+  "subject": "Telugu",
+  "paper": null,
+  "phase": "Mains",
   "year": 2025,
   "category": "Compulsory Language",
   "path": "PYQs/2025/Compulsory/Telugu_(Compulsory)_Mains_2025_Compulsory.pdf",
@@ -9115,6 +9988,15 @@
   "category": "Compulsory Language",
   "path": "PYQs/2016/Indian_Languages_(Compulsory)/Telugu_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf",
   "filename": "Telugu_(Compulsory)_Mains_2016_Indian_Languages_(Compulsory).pdf"
+ },
+ {
+  "subject": "Telugu",
+  "paper": "I",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Telugu_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Telugu_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Telugu",
@@ -9210,6 +10092,15 @@
   "subject": "Telugu",
   "paper": "II",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Telugu_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Telugu_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Telugu",
+  "paper": "II",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Telugu_Literature_Paper_-_II_Mains_2025_Optional_Literature.pdf",
@@ -9295,6 +10186,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Telugu_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf",
   "filename": "Telugu_Literature_Paper_-_II_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Urdu",
+  "paper": null,
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Compulsory Language",
+  "path": "PYQs/2026/Compulsory/Urdu_(Compulsory)_Mains_2026_Compulsory.pdf",
+  "filename": "Urdu_(Compulsory)_Mains_2026_Compulsory.pdf"
  },
  {
   "subject": "Urdu",
@@ -9390,6 +10290,15 @@
   "subject": "Urdu",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Urdu_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf",
+  "filename": "Urdu_Literature_Paper_-_I_Mains_2026_Optional_Literature.pdf"
+ },
+ {
+  "subject": "Urdu",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Literature",
   "path": "PYQs/2025/Optional_Literature/Urdu_Literature_Paper_-_I_Mains_2025_Optional_Literature.pdf",
@@ -9475,6 +10384,15 @@
   "category": "Literature",
   "path": "PYQs/2016/Literature_Subjects/Urdu_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf",
   "filename": "Urdu_Literature_Paper_-_I_Mains_2016_Literature_Subjects.pdf"
+ },
+ {
+  "subject": "Urdu",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Literature",
+  "path": "PYQs/2026/Optional_Literature/Urdu_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf",
+  "filename": "Urdu_Literature_Paper_-_II_Mains_2026_Optional_Literature.pdf"
  },
  {
   "subject": "Urdu",
@@ -9570,6 +10488,15 @@
   "subject": "Zoology",
   "paper": "I",
   "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Zoology_Paper_-_I_Mains_2026_Optional.pdf",
+  "filename": "Zoology_Paper_-_I_Mains_2026_Optional.pdf"
+ },
+ {
+  "subject": "Zoology",
+  "paper": "I",
+  "phase": "Mains",
   "year": 2025,
   "category": "Optional",
   "path": "PYQs/2025/Optional/Zoology_Paper_-_I_Mains_2025_Optional.pdf",
@@ -9655,6 +10582,15 @@
   "category": "Optional",
   "path": "PYQs/2016/Optional_Subjects/Zoology_Paper_-_I_Mains_2016_Optional_Subjects.pdf",
   "filename": "Zoology_Paper_-_I_Mains_2016_Optional_Subjects.pdf"
+ },
+ {
+  "subject": "Zoology",
+  "paper": "II",
+  "phase": "Mains",
+  "year": 2026,
+  "category": "Optional",
+  "path": "PYQs/2026/Optional/Zoology_Paper_-_II_Mains_2026_Optional.pdf",
+  "filename": "Zoology_Paper_-_II_Mains_2026_Optional.pdf"
  },
  {
   "subject": "Zoology",

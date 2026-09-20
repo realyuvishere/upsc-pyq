@@ -1,4 +1,4 @@
-"""Scan the PYQs/ folder and emit webapp/data.json.
+"""Scan the PYQs/ folder and emit ./data.json.
 
 Every PDF filename roughly follows:
     {Subject}[_Paper..{RomanNum}]_{Phase}_{Year}_{Category}.pdf
@@ -11,8 +11,8 @@ import re
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 PYQS_DIR = os.path.join(ROOT, "PYQs")
-OUT = os.path.join(ROOT, "webapp", "data.json")
-OUT_JS = os.path.join(ROOT, "webapp", "data.js")
+OUT = os.path.join(ROOT, ".", "data.json")
+OUT_JS = os.path.join(ROOT, ".", "data.js")
 
 # --- category (folder name) normalisation ------------------------------------
 CATEGORY_MAP = {
