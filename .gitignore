@@ -179,12 +179,3 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
-
-PYQs/*
-!PYQs/2026
-!PYQs/2025
-!PYQs/2024
-!PYQs/2023
-!PYQs/2022
-!PYQs/2021
-!PYQs/2020
