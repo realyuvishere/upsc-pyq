@@ -181,4 +181,7 @@ cython_debug/
 .cursorindexingignore
 
 PYQs/*
+!PYQs/2026
 !PYQs/2025
+!PYQs/2024
+# !PYQs/2023
